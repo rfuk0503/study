@@ -6,3 +6,5 @@ This is a repository for study
 さらに追加してみた。
 
 さらにさらに追加してみた。
+
+GitHubで追記してみた。
